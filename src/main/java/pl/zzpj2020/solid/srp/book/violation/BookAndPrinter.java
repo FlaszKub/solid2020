@@ -1,5 +1,7 @@
 package pl.zzpj2020.solid.srp.book.violation;
 
+import pl.zzpj2020.solid.srp.book.solution.Printable;
+
 import java.util.HashMap;
 import java.util.Map;
 
